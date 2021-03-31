@@ -8,6 +8,10 @@ For example, the expression `5 + 2` could be translated to RPN as `5 2 +`. More
 complicated operations can also be encoded in RPN, such as `((5 + 2) * 3) / 8`
 which would be `5 2 + 3 * 8 /`.
 
+*Hint:* RPN is naturally suited to using the
+[stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) data type, so
+you may want to investigate this.
+
 ## Task
 
 Your task is to create a program which will read a line of space-delimited
