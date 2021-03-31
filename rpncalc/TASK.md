@@ -61,6 +61,7 @@ Input:
 #
 ```
 
+Output:
 ```text
 16
 4
