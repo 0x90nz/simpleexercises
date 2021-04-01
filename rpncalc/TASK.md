@@ -20,6 +20,11 @@ should be separated by a newline as shown in the *Sample Input* section. You may
 assume that all input is well-formed, but if you wish to include more graceful
 error handling you may.
 
+You may make reasonable assumptions about input (e.g. maximum line length,
+number of stored operands at any time) that you see fit. Aim to make your
+solution as general as possible within the constraints of the language you are
+using.
+
 The end of input is marked by the sentinel character '#'. After this character
 has been entered your program should exit.
 
