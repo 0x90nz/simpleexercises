@@ -45,7 +45,6 @@ Input:
 Output:
 ```text
 7
-#
 ```
 
 ### Case 2
